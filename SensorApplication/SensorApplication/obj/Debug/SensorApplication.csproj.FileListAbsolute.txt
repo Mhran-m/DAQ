@@ -1,0 +1,35 @@
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\bin\Debug\SensorApplication.exe
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\bin\Debug\SensorApplication.exe.config
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.AssemblyReference.cache
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.DAQSimulator.resources
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.Form1.resources
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.Properties.Resources.resources
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.GenerateResource.cache
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.exe
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\obj\Debug\SensorApplication.pdb
+C:\Users\Amila_Ruwan\Desktop\SoftwareEngineering\Assignment1\SensorApplication\SensorApplication\bin\Debug\SensorApplication.pdb
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\bin\Debug\SensorApplication.exe.config
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\bin\Debug\SensorApplication.exe
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\bin\Debug\SensorApplication.pdb
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.AssemblyReference.cache
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.DAQSimulator.resources
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.Form1.resources
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.Properties.Resources.resources
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.GenerateResource.cache
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.exe
+C:\Users\Amila\Source\Repos\DAQSimulator\SensorApplication\SensorApplication\obj\Debug\SensorApplication.pdb
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\bin\Debug\SensorApplication.exe.config
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\bin\Debug\SensorApplication.exe
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\bin\Debug\SensorApplication.pdb
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.AssemblyReference.cache
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.DAQSimulator.resources
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.Form1.resources
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.Properties.Resources.resources
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.GenerateResource.cache
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.exe
+C:\Users\Mrad\OneDrive - ZEM AS\Skrivebord\study\software Engenering\Ass1\DAQ_new\DAQSimulator-master\SensorApplication\SensorApplication\obj\Debug\SensorApplication.pdb
