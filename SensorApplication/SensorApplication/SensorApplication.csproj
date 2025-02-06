@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="SensorManager.cs" />
     <Compile Include="DAQSimulator.cs">
       <SubType>Form</SubType>
     </Compile>

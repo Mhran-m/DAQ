@@ -9,6 +9,7 @@ namespace SensorApplication
     public partial class DAQSimulator : Form
     {
         System.Timers.Timer timerSample;
+        SensorManager sensorManager = new SensorManager();
         public DAQSimulator()
         {
             InitializeComponent();
@@ -26,29 +27,6 @@ namespace SensorApplication
         string path;
         int countLogeed;
 
-        public string runLoopForSensorValue(string analogSvalue, string digitalSvalue, int analogSCount, int digitalSCount, int resolution, float lowerVol, float upperVol)
-        {
-            for (int i = 0; i < analogSCount; i++)
-            {
-                float x = (upperVol - lowerVol) / resolution;
-                
-                float num = random.Next(0, resolution + 1);
-                analogSvalue= analogSvalue + (num * x + lowerVol).ToString("0.00") + "\n\n";
-                tempDataForLoggin = tempDataForLoggin + (num * x + lowerVol).ToString("0.00") + ",";
-            }
-
-            for (int i = 0; i < digitalSCount; i++)
-            {
-                float x = (upperVol - lowerVol);
-                int num = random.Next(2);
-                digitalSvalue = digitalSvalue + (num * x + lowerVol).ToString("0.00") + "\n\n";
-                tempDataForLoggin = tempDataForLoggin + (num * x + lowerVol).ToString("0.00") + ",";
-            }
-            tempDataForLogginReady = tempDataForLoggin;
-            tempDataForLoggin = "";
-            return analogSvalue + "\n\n" + digitalSvalue;
-        }
-
         public void getSensorData() 
         {
             string analogSvalue = "";
@@ -60,7 +38,7 @@ namespace SensorApplication
             int analogSensorCount = int.Parse(numAnalogSensorDevices.Text, CultureInfo.InvariantCulture);
             int digitalSensorCount = int.Parse(numDigitalSensorDevices.Text, CultureInfo.InvariantCulture);
             //Multithread error fixed using Invoke
-            sensorValues.Invoke((MethodInvoker)(() => sensorValues.Text = runLoopForSensorValue(analogSvalue, digitalSvalue, analogSensorCount, digitalSensorCount, resolutionNum, loweVoltageNum, upperVoltageNum)));
+            sensorValues.Invoke((MethodInvoker)(() => sensorValues.Text = sensorManager.RunLoopForSensorValue(analogSvalue, digitalSvalue, analogSensorCount, digitalSensorCount, resolutionNum, loweVoltageNum, upperVoltageNum)));
 
         }
 
